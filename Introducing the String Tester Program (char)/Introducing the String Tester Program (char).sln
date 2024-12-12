@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Introducing the String Tester Program (char)", "Introducing the String Tester Program (char)\Introducing the String Tester Program (char).vcxproj", "{CDC88632-126E-48CC-BD24-2D137DFC3426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDC88632-126E-48CC-BD24-2D137DFC3426}.Debug|x64.ActiveCfg = Debug|x64
+		{CDC88632-126E-48CC-BD24-2D137DFC3426}.Debug|x64.Build.0 = Debug|x64
+		{CDC88632-126E-48CC-BD24-2D137DFC3426}.Debug|x86.ActiveCfg = Debug|Win32
+		{CDC88632-126E-48CC-BD24-2D137DFC3426}.Debug|x86.Build.0 = Debug|Win32
+		{CDC88632-126E-48CC-BD24-2D137DFC3426}.Release|x64.ActiveCfg = Release|x64
+		{CDC88632-126E-48CC-BD24-2D137DFC3426}.Release|x64.Build.0 = Release|x64
+		{CDC88632-126E-48CC-BD24-2D137DFC3426}.Release|x86.ActiveCfg = Release|Win32
+		{CDC88632-126E-48CC-BD24-2D137DFC3426}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {079F6DFB-D1EB-47BA-9AF5-9BF83D533137}
+	EndGlobalSection
+EndGlobal

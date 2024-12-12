@@ -1,0 +1,3 @@
+﻿  Repas examen.cpp
+E:\AluCiclesGS1\Hongyu\Programació\Repas examen\Repas examen\Repas examen.cpp(13,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Repas examen.vcxproj -> E:\AluCiclesGS1\Hongyu\Programació\Repas examen\x64\Debug\Repas examen.exe

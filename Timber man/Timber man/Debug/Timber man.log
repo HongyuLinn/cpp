@@ -1,0 +1,7 @@
+﻿  Timber man.cpp
+E:\AluCiclesGS1\Hongyu\Programació\Timber man\Timber man\Timber man.cpp(84,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Hongyu\Programació\Timber man\Timber man\Timber man.cpp(134,30): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Hongyu\Programació\Timber man\Timber man\Timber man.cpp(138,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Hongyu\Programació\Timber man\Timber man\Timber man.cpp(164,36): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Hongyu\Programació\Timber man\Timber man\Timber man.cpp(165,53): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Timber man.vcxproj -> E:\AluCiclesGS1\Hongyu\Programació\Timber man\Debug\Timber man.exe

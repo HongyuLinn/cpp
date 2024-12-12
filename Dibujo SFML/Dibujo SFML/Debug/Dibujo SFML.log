@@ -1,0 +1,7 @@
+﻿  Dibujo SFML.cpp
+E:\AluCiclesGS1\Hongyu\Programació\Dibujo SFML\Dibujo SFML\Dibujo SFML.cpp(116,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Hongyu\Programació\Dibujo SFML\Dibujo SFML\Dibujo SFML.cpp(116,23): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Hongyu\Programació\Dibujo SFML\Dibujo SFML\Dibujo SFML.cpp(160,20): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\Hongyu\Programació\Dibujo SFML\Dibujo SFML\Dibujo SFML.cpp(173,33): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Hongyu\Programació\Dibujo SFML\Dibujo SFML\Dibujo SFML.cpp(173,24): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Dibujo SFML.vcxproj -> E:\AluCiclesGS1\Hongyu\Programació\Dibujo SFML\Debug\Dibujo SFML.exe

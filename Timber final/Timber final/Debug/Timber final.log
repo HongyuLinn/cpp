@@ -1,0 +1,10 @@
+﻿  Timber final.cpp
+E:\AluCiclesGS1\Hongyu\Programació\Timber final\Timber final\Timber final.cpp(110,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Hongyu\Programació\Timber final\Timber final\Timber final.cpp(309,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Hongyu\Programació\Timber final\Timber final\Timber final.cpp(335,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Hongyu\Programació\Timber final\Timber final\Timber final.cpp(397,41): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Hongyu\Programació\Timber final\Timber final\Timber final.cpp(398,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Hongyu\Programació\Timber final\Timber final\Timber final.cpp(417,37): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Hongyu\Programació\Timber final\Timber final\Timber final.cpp(418,54): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Hongyu\Programació\Timber final\Timber final\Timber final.cpp(443,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Timber final.vcxproj -> E:\AluCiclesGS1\Hongyu\Programació\Timber final\Debug\Timber final.exe

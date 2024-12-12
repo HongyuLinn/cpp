@@ -1,0 +1,5 @@
+﻿MathClient.obj : error LNK2019: símbolo externo __imp_fibonacci_init sin resolver al que se hace referencia en la función main
+MathClient.obj : error LNK2019: símbolo externo __imp_fibonacci_next sin resolver al que se hace referencia en la función main
+MathClient.obj : error LNK2019: símbolo externo __imp_fibonacci_current sin resolver al que se hace referencia en la función main
+MathClient.obj : error LNK2019: símbolo externo __imp_fibonacci_index sin resolver al que se hace referencia en la función main
+E:\AluCiclesGS1\Hongyu\Programació\MathClient\MathClient\x64\Debug\MathClient.exe : fatal error LNK1120: 4 externos sin resolver

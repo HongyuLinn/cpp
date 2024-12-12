@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Edat-Insta", "Edat-Insta\Edat-Insta.vcxproj", "{A54D14D0-1B3E-4FEA-B6BC-B194D967F9EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54D14D0-1B3E-4FEA-B6BC-B194D967F9EA}.Debug|x64.ActiveCfg = Debug|x64
+		{A54D14D0-1B3E-4FEA-B6BC-B194D967F9EA}.Debug|x64.Build.0 = Debug|x64
+		{A54D14D0-1B3E-4FEA-B6BC-B194D967F9EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{A54D14D0-1B3E-4FEA-B6BC-B194D967F9EA}.Debug|x86.Build.0 = Debug|Win32
+		{A54D14D0-1B3E-4FEA-B6BC-B194D967F9EA}.Release|x64.ActiveCfg = Release|x64
+		{A54D14D0-1B3E-4FEA-B6BC-B194D967F9EA}.Release|x64.Build.0 = Release|x64
+		{A54D14D0-1B3E-4FEA-B6BC-B194D967F9EA}.Release|x86.ActiveCfg = Release|Win32
+		{A54D14D0-1B3E-4FEA-B6BC-B194D967F9EA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED2C0A21-5A8F-4E3C-B915-3DA5557389A5}
+	EndGlobalSection
+EndGlobal
